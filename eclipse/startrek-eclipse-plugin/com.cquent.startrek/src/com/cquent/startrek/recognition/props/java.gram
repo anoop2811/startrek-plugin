@@ -1,0 +1,19 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for the JSGF Demo
+ */
+
+grammar java;
+
+
+/** 
+ * Grammar for Java commands
+ */
+
+public <java> =       computer create java class  | 
+                      computer create java interface  |
+                      computer create project   |
+                      computer add spring nature   ;
+
+

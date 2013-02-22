@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="lib/jsapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/batch.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/js.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsapi-1.0-base.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/junit-4.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/RM1_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sphinx4.jar" sourcepath="/Sphinx"/>
+	<classpathentry exported="true" kind="lib" path="lib/tags.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/TIDIGITS_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/WSJ_8gau_13dCep_8kHz_31mel_200Hz_3500Hz.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
